@@ -1,3 +1,10 @@
+
+
+
+
+
+/* version con IF
+
 let elemento = document.getElementById("mantiene").style.display;
 
 if (elemento != "none") {
@@ -15,3 +22,6 @@ function chau() {
     document.getElementById("mantiene").style.display = "block";
   }
 }
+
+
+*/
