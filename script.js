@@ -1,7 +1,6 @@
-
-
-
-
+function chau() {
+  document.getElementById("mantiene").classList.toggle("desaparece");
+}
 
 /* version con IF
 
