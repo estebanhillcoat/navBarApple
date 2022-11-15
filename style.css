@@ -73,6 +73,11 @@ footer {
   display: block;
 }
 
+
+
+/* comienza la media query que muestra la navBar en responsive */
+
+
 @media (max-width: 940px) {
   i {
     display: none;
