@@ -67,6 +67,8 @@ footer {
   display: none;
 }
 
+/* esta es la clase que usa el toggle */
+
 .desaparece {
   display: block;
 }
